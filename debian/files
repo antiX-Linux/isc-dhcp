@@ -1,0 +1,14 @@
+isc-dhcp-client-dbgsym_4.3.5-3.2_amd64.deb debug extra
+isc-dhcp-client-ddns-dbgsym_4.3.5-3.2_amd64.deb debug extra
+isc-dhcp-client-ddns_4.3.5-3.2_amd64.deb net optional
+isc-dhcp-client-udeb_4.3.5-3.2_amd64.udeb debian-installer extra
+isc-dhcp-client_4.3.5-3.2_amd64.deb net important
+isc-dhcp-common_4.3.5-3.2_amd64.deb net important
+isc-dhcp-dev_4.3.5-3.2_amd64.deb devel optional
+isc-dhcp-relay-dbgsym_4.3.5-3.2_amd64.deb debug extra
+isc-dhcp-relay_4.3.5-3.2_amd64.deb net optional
+isc-dhcp-server-dbgsym_4.3.5-3.2_amd64.deb debug extra
+isc-dhcp-server-ldap-dbgsym_4.3.5-3.2_amd64.deb debug extra
+isc-dhcp-server-ldap_4.3.5-3.2_amd64.deb net optional
+isc-dhcp-server_4.3.5-3.2_amd64.deb net optional
+isc-dhcp_4.3.5-3.2_amd64.buildinfo net important

@@ -1,0 +1,15 @@
+Package: isc-dhcp-server-ldap-dbgsym
+Source: isc-dhcp
+Version: 4.3.5-3.2
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Debian ISC DHCP maintainers <pkg-dhcp-devel@lists.alioth.debian.org>
+Installed-Size: 1722
+Depends: isc-dhcp-server-ldap (= 4.3.5-3.2)
+Breaks: isc-dhcp-dbg (<< 4.3.3-7~)
+Replaces: isc-dhcp-dbg (<< 4.3.3-7~)
+Section: debug
+Priority: extra
+Homepage: http://www.isc.org
+Description: Debug symbols for isc-dhcp-server-ldap
+Build-Ids: 6c0680e84a44987dae00ba7abc2ba2b9baef9146

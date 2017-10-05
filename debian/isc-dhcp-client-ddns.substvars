@@ -1,0 +1,3 @@
+shlibs:Depends=libc6 (>= 2.15), libdns-export162, libirs-export141, libisc-export160
+misc:Depends=
+misc:Pre-Depends=

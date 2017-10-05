@@ -1,0 +1,3 @@
+shlibs:Depends=libc6-udeb (>= 2.24), libdns-export162-udeb, libirs-export141-udeb, libisc-export160-udeb
+misc:Depends=
+misc:Pre-Depends=

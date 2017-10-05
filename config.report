@@ -1,0 +1,27 @@
+
+     ISC DHCP source configure results:
+    -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Package:
+  Name:          DHCP
+  Version:       4.3.5
+
+C Compiler:      gcc
+
+Flags:
+  DEFS:          -DHAVE_CONFIG_H
+  CFLAGS:        -g -O2 -fdebug-prefix-map=/home/anticap/src-debs/src-debs-antix/stretch/isc-dhcp-4.3.5=. -fstack-protector-strong -Wformat -Werror=format-security -Wall -I/usr/include/bind-export -g -O2 -fdebug-prefix-map=/home/anticap/src-debs/src-debs-antix/stretch/isc-dhcp-4.3.5=. -fstack-protector-strong -Wformat -Werror=format-security -D_PATH_DHCPD_CONF='"/etc/dhcp/dhcpd.conf"' -D_PATH_DHCPD_DB='"/var/lib/dhcp/dhcpd.leases"' -D_PATH_DHCPD6_DB='"/var/lib/dhcp/dhcpd6.leases"' -D_PATH_DHCLIENT_SCRIPT='"/sbin/dhclient-script"' -D_PATH_DHCLIENT_CONF='"/etc/dhcp/dhclient.conf"' -D_PATH_DHCLIENT_DB='"/var/lib/dhcp/dhclient.leases"' -D_PATH_DHCLIENT6_DB='"/var/lib/dhcp/dhclient6.leases"' -DNSUPDATE  -I$(top_srcdir)/includes -I${top_srcdir}/bind/include
+
+DHCP versions:   DHCPv4 and DHCPv6
+
+Features:
+  debug:         no
+  failover:      yes
+  execute:       yes
+  binary-leases: no
+  dhcpv6:        yes
+  delayed-ack:   no
+
+Developer:
+  ATF unittests : no
+
